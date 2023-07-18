@@ -9,6 +9,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inderjeet09&show_icons=true&locale=en&layout=compact" alt="inderjeet09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inderjeet09&" alt="inderjeet09" /></p>

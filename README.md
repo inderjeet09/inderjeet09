@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Inderjeet
 
 🧠 **AI Engineer (Learning & Building with LLMs)**  
-🤖 LangChain | LangGraph | RAG Systems  
+🤖 LangChain | LangGraph | RAG Systems | Agentic Ai 
 
 ---
 
@@ -29,7 +29,7 @@ Currently exploring how to build **retrieval-augmented systems**, **LLM agents**
 
 ## 🔧 Tech Stack (Learning & Using)
 
-- **Languages:** Python 🐍  
+- **Languages:** Python , C++ 🐍  
 - **LLM Frameworks:** LangChain, LangGraph  
 - **RAG Tools:** FAISS, Chroma, Vector Databases  
 - **Models:** OpenAI / Open-Source LLMs  
@@ -48,17 +48,6 @@ Currently exploring how to build **retrieval-augmented systems**, **LLM agents**
 
 ---
 
-## 📂 Projects
-
-> 🚧 Work in progress — learning by building  
-
-Planned uploads:
-- 🔹 Simple RAG system from scratch  
-- 🔹 LangChain-based QA bots  
-- 🔹 LangGraph multi-agent workflows  
-- 🔹 Experiments with embeddings & retrieval  
-
----
 
 ## 📫 Connect With Me
 
@@ -68,4 +57,3 @@ Planned uploads:
 
 ---
 
-⭐ *If you like my work or are also learning AI, feel free to connect or follow!*
